@@ -1,0 +1,30 @@
+[
+   {
+     
+      "titular":"Más de 560 millones de emails y contraseñas al descubierto: comprueba si estás a salvo antes de que se entere tu pareja ",
+      "desa":"Los datos de las cuentas expuestas llevan circulando algún tiempo, pero ahora ha sido Troy Hunt quien ha decidido agruparlas en diferentes bases de datos. En total, 313 bases de datos con un tamaño de más de 1 GB cada una. Han sido extraídos unos cuantos terabytes de datos de servicios como Spotify, Dropbox, LinkedIn, Mega, Tumblr, Adobe (Photoshop, Premiere, Lightroom, etc.), MySpace o Badoo que probablemente hayas usado alguna vez. El mejor consejo de ciberseguridad que te podemos dar es cambiar la contraseña cuanto antes y el segundo comprar un buen sofá por si tienes que dormir en él.",
+      "datetime":"20/05/2017 22:00",
+      "img":"img/noticias7.jpg"
+     
+     
+   },
+   {
+      
+      
+      "titular":"Hackers chantajean a Disney si no paga un rescate. Es como amenazar a todos los niños del mundo. ¡No hay verguenza!",
+      "desa":"El CEO de Disney Bob Iger, confirmó que la compañía está siendo amenazada por supuestos hackers que dicen tener en su poder una película de Disney. Estos hackers están pidiendo una gran suma de bitcoins a cambio de no publicar en línea la película antes de su estreno en cines.Iger se ha mostrado fuerte ante las intimidaciones, al parecer cuenta con el apoyo de todos los niños del mundo y sus respectivos padres. ¿Quién puede hacer semejante locura? A caso ese grupo de Hackers creció en otro planeta que no muestran una pisca de consideración por la empresa que creó el ratón Micky, desde luego la infancia no sería lo mismo.",
+      "datetime":"21/05/2017 17:30",
+      "img":"img/noticias8.jpg"
+    
+   
+   },
+   {
+     
+      "titular":"La condena de Windows es su popularidad. Es lo que tiene ser una estrella.",
+      "desa":"La industria de la seguridad informática dirige buena parte de sus productos e informes a esta plataforma, y cada vez que oímos hablar de algún tipo de malware parece que lo normal es que sean estos usuarios también los que están amenazados. ¿Por qué? Fácil. Porque Windows es el sistema operativo que da pasta a los cibercriminales. Su cuota de mercado en sistemas operativos —datos de StatCounter GlobalStats a día de hoy— de escritorio es espectacular, y aquellos que se dedican a desarrollar exploits y malware lo saben. De hecho si quieres que tu ataque tenga éxito y sea rentable económicamente (que es de lo que se trata en muchos casos), lo ideal es que programes malware para Windows.",
+      "datetime":"22/05/2017 18:21",
+      "img":"img/noticias9.jpg"
+    
+      
+   }
+]

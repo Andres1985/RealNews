@@ -1,0 +1,188 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15-may-2017, 18:30:45
+    Author     : Andrex
+*/
+
+/*Cuerpo de la web*/
+body{
+    background-color: #ffffcc
+    
+}
+
+
+/*imagen en la cabecera del programa*/
+#logo{
+   padding: 40px 30px 0px 40px;
+   width: 75%; 
+   height: auto;
+}
+
+/*Eslogan ubicado en la cabecera del programa*/
+#eslogan{
+    font-family: "Times New Roman", Times, serif;
+    font-style: oblique;
+    padding: 50px 50px 50px 30px;
+    text-shadow:5px 5px 10px black;    
+}
+/*caja para el logotipo y el nombre*/
+.jumbotron{  
+     background-color: #D83232; 
+}
+
+/*Botones de la barra de navegacion*/
+#navBoton{
+    height: 30px;
+    width: auto;   
+}
+/*marco para la publicidad version horizontal*/
+#publi{
+        float:right;
+        position: absolute;
+        background-color:red;
+        width:300px;
+        height: auto;
+        right: 5%;
+        margin-top: 5%;
+       
+    }
+/*Publicidad en el diseño horizontal*/    
+#anuncio{
+        width:100%;
+        height: 200%;
+    
+    }    
+
+/* caja de las noticias*/
+#noticia{
+     width: calc(100%-300px);
+}
+
+/*Boton de cargar mas noticias*/
+#masNoticias{
+     margin-top: 50px;
+    
+
+
+}
+
+/*publicidad version movil*/
+#publiMovil{
+        display: none;
+    }
+
+/*footer de la pagina*/
+.footer{padding:50px 0 50px;margin-top:100px;color:#99979c;text-align:center;
+    background-color:#D83232}
+
+
+/*logo del facebook*/
+#logo_facebook  {
+    width:100px;
+    height:60px;
+    border:0;   
+    margin-left:-50px;
+    margin-right:80px;
+}
+
+#logo_twitter{
+    width:42px;
+    height:42px;
+    border:0;   
+    margin-right:80px;
+  
+}
+
+#logo_rss{
+    width:42px;
+    height:42px;
+     margin-left: 30px;
+    border:0;    
+}
+
+/*imagenes de las dos primeras noticas */
+#not{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 50%;
+    height: auto;
+    
+}
+/*videos incluidos en la pagina*/
+#video{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    
+}
+
+  /*----css version movil----------------*/    
+@media (max-width: 960px){
+        
+ body{
+    background-color: #ffffcc
+    
+}
+
+/*imagen en la cabecera del programa*/
+#logo{
+   padding: 20px 50px 0px 130px;
+   width: 80%; 
+   height: auto;
+}
+
+/*Eslogan ubicado en la cabecera del programa*/
+#eslogan{
+    font-family: "Times New Roman", Times, serif;
+    font-style: oblique;
+    padding: 20px 50px 0px 100px;
+    text-shadow:5px 5px 10px black;
+    
+    
+    
+}
+#eslogan1{
+    display: none;
+    
+}
+
+.jumbotron{
+    height: 50%;
+    font-style: oblique;
+    padding: 50px 50px 50px 80px;
+    background-color: #D83232 
+    
+}
+
+#body{
+    
+    margin-bottom: 120px;
+}
+
+
+
+#publiMovil{
+        display:block;
+        background-color: red;
+        position: fixed;
+        height: 90px;
+        width: 100%;
+        bottom: 0;
+    }
+#anuncioMovil{
+        width:100%;
+        height: auto;
+        
+    }
+    
+#publi{
+        display: none;
+    }    
+    
+ .footer{
+        display: none;
+    }
+}

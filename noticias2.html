@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+   <head>
+        <title>Real News</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="NOTICIAS ACTUALIDAD SUCESOS ULTIMA HORA">
+        <meta property="og:title" content="Real News" />
+        <meta property="og:description" content="NOTICIAS ACTUALIDAD SUCESOS ULTIMA HORA" />
+        <meta property="og:url" content="https://rawgit.com/Andres1985/RealNews/master/index.html" />
+        <meta property="og:image" content="https://rawgit.com/Andres1985/RealNews/master/img/logo1.png" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel='stylesheet' href="css/d.css">
+        <link href="https://github.com/Andres1985/RealNews/blob/master/rss/rss.xml" rel="alternate" type="application/rss+xml" title="RSS Portada"/>        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script src='js/js.js'></script>
+    </head>
+    <body>
+        <div id="body">
+        <!-- Barra de Navegacion -->
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav navbar-right">
+                         <li><a href="index.html"><button id="navBoton" type="button" class="btn btn-primary">Inicio</button></a></li>
+                        <li><a href="#new"><button id="navBoton" type="button" class="btn btn-primary">¿Quienes somos?</button></a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+
+        <!--Cabecera-->
+        <div id="cabecera" class="container">
+            <div class="jumbotron">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <img id="logo" src="img/logo.gif" alt=""/>
+                    </div> 
+                    <div id="eslogan" class="col-sm-8">
+                        <h1>Real News</h1>
+                        <h2 id="eslogan1" class="text-center">Inspirado en Hechos Reales</h2>
+                    </div>
+                </div>
+            </div>
+        </div>  
+        <div class="container">
+            <div class="container col-sm-9" id="noticia1">
+                <section class="noticias">
+                    <h2 class="well well-sm">Corea del Norte podría estar detrás del Ransomware WannaCry. Al parecer, su gran líder presionó ENTER en vez de ESCAPE (inútil).</h2>
+                    <div class="datetime">
+                        <span class="glyphicon glyphicon-calendar">25/04/2017 22:00</span>
+                    </div>
+                    <div class="informacion">
+                        <div class="imagen">
+                            <img id="not" class="img-rounded img-responsive center-block" src="img/noticias2_1.jpg" alt="Simio">
+                        </div>
+                        <p>Investigadores de seguridad de diversas empresas han estudiado el código y creen que este ciberataque masivo podría proceder de Corea del Norte, aunque otras fuentes como la propia Microsoft afirma que detrás podría estar la Agencia de Seguridad Nacional. El ransomware WannaCry (y también conocido como Wanna Decrypt0r o WCry entre otros) sigue siendo, por desgracia, el tema central de la actualidad tecnológica.</p>
+                        <p>La teoría tiene su base en el hecho de que WannaCry comparte código con el malware desarrollado por un grupo de crackers norcoreanos llamado Lazarus Group. Aunque no es una prueba definitiva de que el ataque haya procedido de allí, y de hecho cualquier cracker podría haber hecho lo mismo desde cualquier parte del mundo.</p>
+
+                        <div id="video" class="media embed-responsive embed-responsive-16by9">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/xpFU4n2iHN8" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <p>Según Eusebio Nieva, director técnico de Check-Point en España y Portugal, el ransomware es la estrategia más utilizada para atacar a las grandes empresas. “Los hackers piden que el rescate se realice a través de un pago digital que no se pueda rastrear”, decía Nieva. El experto explica que ese software maligno puede llegar a un sistema de manera simple, desde un correo electrónico con una factura falsa, por ejemplo, hasta una técnica conocida como watering hole, que en el caso de las grandes compañías, infecta una página (generalmente de la red intranet) a la que los trabajadores o usuarios acceden con frecuencia. “Esa es la forma más rápida para una distribución masiva”, afirmó.</p>
+
+                        <p>El ataque sigue tratando de actuar y de propagarse, pero un segundo killswitch (un "interruptor de desactivación" consistente de nuevo en un dominio muy particular) ha logrado frenar su avance.</p>
+
+
+                    </div>
+                </section>
+            </div>
+            <!-- Publicidad -->
+            <div  id="publi">
+                <img id="anuncio"  src="img/cocaCola.gif" alt="Coca-Cola">
+            </div>
+        </div>
+        <footer class="footer"> 
+            <div class="container">     
+                <a href="https://www.facebook.com/"><img id="logo_facebook" class="img-rounded" src="img/facebook.png" alt="facebook"></a> 
+                <a href="https://twitter.com/?lang=es"><img id="logo_twitter" class="img-rounded" src="img/twitter.jpg" alt="twitter"></a> 
+                <a href="www.rss.com"><img id="logo_rss" class="img-rounded" src="img/rss.jpg" alt="rss"></a>                 
+                <p>Developed by Andres Rivero Ledo </p> 
+            </div> 
+        </footer>
+    </div>
+     <!-- Apartado para la publicidad-->
+     <div  id="publiMovil">
+            <img id="anuncioMovil"  src="img/cocaColaMovil.gif" alt="Coca-Cola">
+     </div> 
+    </body>
+</html>

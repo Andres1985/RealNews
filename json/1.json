@@ -1,0 +1,30 @@
+[
+	{
+		
+		"titular":"WhatsApp permite que te equivoques cuando estés cabreado.",
+		"desa":"Se rumorea que la aplicación de mensajería está probando una función para eliminar mensajes enviados y estos desaparecieran tanto del emisor como del receptor. De momento, solo está para la versión Beta, asi que sigue contando hasta diez antes de escribirle a alguien",
+		"datetime":"17/05/2017 20:00",
+		"img":"img/noticias4.jpg"
+                
+                    
+		
+	},
+	{
+		
+		"titular":"Intel prepara su monstruo: el nuevo core i9 con 12 nucleos (ahora mismo no quisiera ser AMD)",
+		"desa":"la introducción de los AMD Ryzen y su apuesta por más núcleos ha hecho que en Intel suba la apuesta y estén preparando una nueva alternativa. El Intel Core i9, hará su aparición en la próximas semanas en dos versiones con 10 y 12 núcleos de proceso y que también llegarán a contar con hasta 44 pistas PCIe para crear PCs de escritorio con unas prestaciones realmente fantásticas.",
+		"datetime":"18/05/2017 08:00",
+		"img":"img/noticias5.jpg"
+                
+		
+	},
+	{
+		"titular":"El tamaño importa. ¿Será el año de los miniPC?",
+		"desa":"Un sector de la informática que todavía está  por explosionar, según fuentes oficiales, el mercado del miniPC está creciendo en números de ventas. Al parecer, AMD Ryzen e Intel Kaby Lake tienen la suficiente potencia para convertir algunos de sus equipos más “sencillos” en poderosas máquinas de juego. Estamos viviendo un interesante cambio tecnológico en la arquitectura de los procesadores y los fabricantes lo saben. En fin una vez más la portabilidad va aumentado su peso con el devenir de los años.",
+		"datetime":"018/05/2017 09:51",
+		"img":"img/noticias6.jpg"
+              
+        
+		
+	}
+]

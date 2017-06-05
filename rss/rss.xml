@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+    <channel>
+        <title>Real News</title>
+        <link>https://rawgit.com/Andres1985/RealNews/master/index.html</link>
+        <description>Página de artículos sobre los acontecimientos más importante que suceden en el mundo</description>
+        <item>
+            <title>Tráiler de 'La guerra del planeta de los simios </title>
+            <link>https://rawgit.com/Andres1985/RealNews/master/noticias1.html</link>
+            <description><![CDATA[ <p>Hollywood se reinventa ante la falta de ideas. Una vez más somos víctimas de nuestro propio aburrimiento y procedemos a dedicarles tiempos a cosas que son más de los mismos. Ya ni cambian el collar ni mucho menos el perro. Otra secuela más y al parecer la última de “La guerra del planeta de los simios”.</p> ]]></description>
+
+
+        </item>
+
+        <item>
+            <title>Corea del Norte podría estar detrás del ransomware WannaCry</title>
+            <link>https://rawgit.com/Andres1985/RealNews/master/noticias2.html</link>
+            <description><![CDATA[ <p>Investigadores de seguridad de diversas empresas han estudiado el código y creen que este ciberataque masivo podría proceder de Corea del Norte, aunque otras fuentes como la propia Microsoft afirma que detrás está la Agencia de Seguridad Nacional.</p> ]]></description>
+
+
+        </item>
+        <item>
+            <title>Bill Gates cree que la ambición espacial de Musk y Bezos no ayuda a la humanidad (No usan Windows).</title>
+            <link>https://rawgit.com/Andres1985/RealNews/master/index.html</link>
+            <description><![CDATA[ <p>Elon Musk, Jeff Bezos o Richard Branson son los nuevos emprendedores espaciales cuya meta no es otra que llevar al hombre a marte. Al parecer, no todo el mundo de las altas esferas mundiales no está de acuerdo con dichos proyectos, y entre ellos está Bill Gates, que en una entrevista reciente declaraba que aunque respeta estos proyectos, no entiende cómo pueden contribuir directamente al desarrollo de la humanidad.</p> ]]></description>
+        </item>
+    </channel>
+
+</rss>
