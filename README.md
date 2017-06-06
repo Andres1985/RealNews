@@ -4,8 +4,11 @@ Es una web de noticias con unas series de características únicas. Dichas carac
 # Web
 ## index/noticias1/noticias2
 Estas son las tres únicas web de las que constará el proyecto:
+
 index.html: representa la web principal del proyecto que enlazará con las otras dos web de noticias.
+
 noticias1.html: representa la web de la noticia 1 siguiendo el mismo diseño general del index.html
+
 noticias2.html: representa la web de la noticia 2 siguiendo el mismo diseño general del index.html
 
 # CSS Y BOOTSTRAP
