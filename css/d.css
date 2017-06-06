@@ -15,14 +15,14 @@ body{
 }
 
 
-/*imagen en la cabecera del programa*/
+/*imagen en la cabecera de la web*/
 #logo{
    padding: 40px 30px 0px 40px;
    width: 75%; 
    height: auto;
 }
 
-/*Eslogan ubicado en la cabecera del programa*/
+/*Eslogan ubicado en la cabecera de la web*/
 #eslogan{
     font-family: "Times New Roman", Times, serif;
     font-style: oblique;
@@ -70,7 +70,7 @@ body{
 
 }
 
-/*publicidad version movil*/
+/*publicidad para la version movil*/
 #publiMovil{
         display: none;
     }
@@ -80,7 +80,7 @@ body{
     background-color:#D83232}
 
 
-/*logo del facebook*/
+/*logo del facebook del footer*/
 #logo_facebook  {
     width:100px;
     height:60px;
@@ -89,6 +89,7 @@ body{
     margin-right:80px;
 }
 
+/*logo del twitter del footer*/
 #logo_twitter{
     width:42px;
     height:42px;
@@ -96,7 +97,7 @@ body{
     margin-right:80px;
   
 }
-
+/*logo del rss del footer*/
 #logo_rss{
     width:42px;
     height:42px;
@@ -119,22 +120,23 @@ body{
     
 }
 
-  /*----css version movil----------------*/    
+/*----css version movil----------------*/    
 @media (max-width: 960px){
-        
+ 
+/*Cuerpo de la web vertical */  
  body{
-    background-color: #ffffcc
-    
+    background-color: #ffffcc;
+    margin-bottom: 120px
 }
 
-/*imagen en la cabecera del programa*/
+/*imagen en la cabecera de la web vertical*/
 #logo{
    padding: 20px 50px 0px 130px;
    width: 80%; 
    height: auto;
 }
 
-/*Eslogan ubicado en la cabecera del programa*/
+/*Eslogan ubicado en la cabecera de la web vertical*/
 #eslogan{
     font-family: "Times New Roman", Times, serif;
     font-style: oblique;
@@ -144,11 +146,13 @@ body{
     
     
 }
+/*Eslogan ubicado en la cabecera de la web vertical*/
 #eslogan1{
     display: none;
     
 }
 
+/*caja para el logotipo y el nombre*/
 .jumbotron{
     height: 50%;
     font-style: oblique;
@@ -157,13 +161,9 @@ body{
     
 }
 
-#body{
-    
-    margin-bottom: 120px;
-}
 
 
-
+/*caja publicidad version movil*/
 #publiMovil{
         display:block;
         background-color: red;
@@ -172,16 +172,17 @@ body{
         width: 100%;
         bottom: 0;
     }
+/*publicidad version movil*/  
 #anuncioMovil{
         width:100%;
         height: auto;
         
     }
-    
+/*publicidad version vertical*/    
 #publi{
         display: none;
     }    
-    
+ /*footer version vertical*/   
  .footer{
         display: none;
     }
