@@ -3,7 +3,7 @@ var num = 1;
 
 $(document).ready(function () {
     //cargar noticias
-    /*Cuando clickamos en el boton "mas noticias cargar los dos Json*/
+    /*Cuando clicamos en el boton "mas noticias" cargar los dos Json*/
     $('#masNoticias').click(function () {
         if (num <= 2) {
             getJson();
@@ -12,7 +12,7 @@ $(document).ready(function () {
             alert("No hay mas noticias");//en caso de no haya más documento json mostrara el mensaje
         }
     });
-    /*Cargara directamente los Json con cuando hagamos scroll en la web */
+    /*Carga directamente los Json con cuando hagamos scroll en la web */
     $(window).scroll(function () {
         if ($(window).scrollTop() + $(window).height() > $(document).height() - 500) {
             getJson();
