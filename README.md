@@ -12,7 +12,7 @@ noticias1.html: representa la web de la noticia 1 siguiendo el mismo diseño gen
 noticias2.html: representa la web de la noticia 2 siguiendo el mismo diseño general del index.html
 
 # CSS Y BOOTSTRAP
-d.css : representa el archivo css que dará presentacion a la tres páginas web del proyecto con la bootstrap. Siempre teniendo en cuenta que el diseño tiene que ser responsive.
+d.css : representa el archivo css que dará presentación a la tres páginas web del proyecto con la bootstrap. Siempre teniendo en cuenta que el diseño tiene que ser responsive.
 
 # JSON
 ## 1.json/2.json
@@ -22,7 +22,7 @@ Los dos archivos tendrán el grueso del resto de las seis preguntas que con la a
 Validado el archivo rss.xml con las tres primeras noticias.
 
 #JQuery
-js.js : representa el archivo JQuery que nos permite cargar las seis noticas que hay en los dos documentos del Json a través del scroll o el boton "mas noticias" 
+js.js : representa el archivo JQuery que nos permite cargar las seis noticas que hay en los dos documentos del Json a través del scroll o el botón "más noticias" 
 
 
 
