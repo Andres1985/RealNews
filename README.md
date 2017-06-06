@@ -2,6 +2,9 @@
 Es una web de noticias con unas series de características únicas. Dichas características serán explicadas a continuación:
 
 # Web
+En el siguiente enlace se muestra la version de prueba: 
+https://rawgit.com/Andres1985/RealNews/master/index.html
+
 ## index/noticias1/noticias2
 Estas son las tres únicas web de las que constará el proyecto:
 
