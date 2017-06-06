@@ -1,5 +1,5 @@
 # RealNews
-Es una web de noticias con unas series de característics precisas. Dichas características serán explicadas a continuación:
+Es una web de noticias con unas series de características únicas. Dichas características serán explicadas a continuación:
 
 # Web
 ## index/noticias1/noticias2
